@@ -8,7 +8,7 @@ This mod does not have any dependencies.  Will run on a bare bones fivem/citizen
 to install: 
 
 
-copy folder to your resources folder
+copy folder to your resources folder. 
 add  "start xzemplar_disableNativeHotwire"   to your server start config
 
 
